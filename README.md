@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Science at ITMO University**
 
-- 📫 How to reach me **Telegram: -> @outisssss**
+- 📫 How to reach me: **Telegram -> @outisssss**
 
 <p align="left">
 </p>
